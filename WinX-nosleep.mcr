@@ -1,0 +1,4 @@
+LABEL : START-HERE
+Mouse : C2 : C2 : Move : 0 : 0 : 1
+DELAY : 25000
+GOTO : START-HERE
