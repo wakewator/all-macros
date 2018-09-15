@@ -4,6 +4,6 @@ PLAY MACRO : C:\Macros\newalch\ALCH-Add-F1s.mcr
 PLAY MACRO : C:\Macros\newalch\ALCH-Add-F1s.mcr
 PLAY MACRO : C:\Macros\newalch\ALCH-Add-F2s.mcr
 PLAY MACRO : C:\Macros\newalch\ALCH-Add-F3s.mcr
-PLAY MACRO : C:\Macros\Alch\ALCH-TM-Add-to-Cauldron.mcr
+PLAY MACRO : C:\Macros\newalch\ALCH-TM-Add-to-Cauldron.mcr
 DELAY : 3600
 ENDREPEAT

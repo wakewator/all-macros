@@ -1,4 +1,4 @@
-SET CLIPBOARD : 99 : 0 : Please enter the text to store in clipboard:
+SET CLIPBOARD : 1 : 0 : Please enter the text to store in clipboard:
 LABEL : START-LAB
 DELAY : 100
 LABEL : Kill Bar - top

@@ -4,7 +4,7 @@ REPEAT : 1000 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Keyboard : F1 : KeyPress
 DELAY : 400
 Mouse : 1034 : 737 : LeftButtonDown : 0 : 1 : 0
-DELAY : 98
+DELAY : 175
 Mouse : 1034 : 737 : LeftButtonUp : 0 : 1 : 0
 DELAY : 3600
 ENDREPEAT

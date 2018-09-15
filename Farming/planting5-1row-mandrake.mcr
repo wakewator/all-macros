@@ -12,7 +12,7 @@ DELAY : 100
 Mouse : 363 : 344 : Click : 0 : 1 : 0
 DELAY : 1800
 Mouse : C-10 : C-10 : Move : 0 : 0 : 0
-DELAY : 75
+DELAY : 120
 Mouse : C10 : C10 : Move : 0 : 0 : 0
 DELAY : 100
 Keyboard : F2 : KeyPress
@@ -37,7 +37,7 @@ DELAY : 100
 Mouse : 363 : 344 : Click : 0 : 1 : 0
 DELAY : 1800
 Mouse : C-10 : C-10 : Move : 0 : 0 : 0
-DELAY : 75
+DELAY : 120
 Mouse : C10 : C10 : Move : 0 : 0 : 0
 DELAY : 100
 Keyboard : F2 : KeyPress

@@ -1,6 +1,8 @@
 SET CLIPBOARD : 1 : 0 : Please enter the text to store in clipboard:
 COMMENT : V1 - Based on bandits 3E
 COMMENT : V2 - Add code to check if diseased and BB - F7
+COMMENT : F1=Regen, F2=WWT, F4=Dis resist, F5=Totem
+COMMENT : F7=BB
 LABEL : START-LAB
 DELAY : 100
 LABEL : Kill Bar - top
