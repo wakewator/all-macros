@@ -40,7 +40,7 @@ Keyboard : F5 : KeyPress
 DELAY : 1100
 REPEAT : 4 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Mouse : 0 : 0 : Click : 0 : 1 : 0
-DELAY : 3400
+DELAY : 4000
 ENDREPEAT
 ENDREPEAT
 ENDREPEAT

@@ -14,15 +14,15 @@ Keyboard : F6 : KeyPress
 DELAY : 200
 Keyboard : F7 : KeyPress
 DELAY : 200
-REPEAT : 12 : 0 : 0 : Enter the number of iterations: : 0 : 0
-PLAY MACRO : C:\Macros\Farming\row-mandrake-flourish.mcr
+REPEAT : 30 : 0 : 0 : Enter the number of iterations: : 0 : 0
+PLAY MACRO : C:\Macros\Farming\planting5-1row-mandrake.mcr
 DELAY : 200
 Keyboard : Down : KeyPress
 DELAY : 350
 ENDREPEAT
 COMMENT : Plant last line
-PLAY MACRO : C:\Macros\Farming\row-mandrake-flourish.mcr
-REPEAT : 12 : 0 : 0 : Enter the number of iterations: : 0 : 0
+PLAY MACRO : C:\Macros\Farming\planting5-1row-mandrake.mcr
+REPEAT : 30 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Keyboard : Space : KeyPress
 DELAY : 200
 Keyboard : Up : KeyPress
@@ -36,9 +36,9 @@ DELAY : 200
 Keyboard : Right : KeyPress
 DELAY : 350
 ENDREPEAT
-REPEAT : 6 : 0 : 0 : Enter the number of iterations: : 0 : 0
+REPEAT : 15 : 0 : 0 : Enter the number of iterations: : 0 : 0
 REPEAT : 2 : 0 : 0 : Enter the number of iterations: : 0 : 0
-PLAY MACRO : C:\Macros\Farming\row-mandrake-flourish.mcr
+PLAY MACRO : C:\Macros\Farming\planting5-1row-mandrake.mcr
 DELAY : 200
 Keyboard : Space : KeyPress
 DELAY : 200
@@ -47,8 +47,8 @@ DELAY : 350
 ENDREPEAT
 PLAY MACRO : C:\Macros\Farming\F6-left-harvest.mcr
 ENDREPEAT
-PLAY MACRO : C:\Macros\Farming\row-mandrake-flourish.mcr
-REPEAT : 12 : 0 : 0 : Enter the number of iterations: : 0 : 0
+PLAY MACRO : C:\Macros\Farming\planting5-1row-mandrake.mcr
+REPEAT : 30 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Keyboard : Space : KeyPress
 DELAY : 200
 Keyboard : Up : KeyPress
@@ -60,9 +60,9 @@ Keyboard : Left : KeyPress
 DELAY : 350
 ENDREPEAT
 COMMENT : Plant left row, harvest right row
-REPEAT : 6 : 0 : 0 : Enter the number of iterations: : 0 : 0
+REPEAT : 15 : 0 : 0 : Enter the number of iterations: : 0 : 0
 REPEAT : 2 : 0 : 0 : Enter the number of iterations: : 0 : 0
-PLAY MACRO : C:\Macros\Farming\row-mandrake-flourish.mcr
+PLAY MACRO : C:\Macros\Farming\planting5-1row-mandrake.mcr
 DELAY : 200
 Keyboard : Space : KeyPress
 DELAY : 200
@@ -71,8 +71,8 @@ DELAY : 350
 ENDREPEAT
 PLAY MACRO : C:\Macros\Farming\F6-right-harvest.mcr
 ENDREPEAT
-PLAY MACRO : C:\Macros\Farming\row-mandrake-flourish.mcr
-REPEAT : 12 : 0 : 0 : Enter the number of iterations: : 0 : 0
+PLAY MACRO : C:\Macros\Farming\planting5-1row-mandrake.mcr
+REPEAT : 30 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Keyboard : Space : KeyPress
 DELAY : 200
 Keyboard : Up : KeyPress

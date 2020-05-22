@@ -6,7 +6,7 @@ DELAY : 700
 Mouse : 507 : 433 : LeftButtonDown : 0 : 1 : 0
 DELAY : 95
 Mouse : 507 : 433 : LeftButtonUp : 0 : 1 : 0
-DELAY : 4800
+DELAY : 4900
 ENDIF
 ENDREPEAT
 Keyboard : F2 : KeyPress

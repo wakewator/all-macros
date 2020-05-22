@@ -1,7 +1,7 @@
 DELAY : 1000
 COMMENT : F1=Body, F2=Rune, F3=Rune
-COMMENT : F4=Regen, F5=Healing, F6=Saintly, F7=Soldier Ring
-COMMENT : F8=Food
+COMMENT : F4=Regen, F5=Healing, F8=Food
+COMMENT : F11=Rune, Sh-F11=Rune
 COMMENT : F12=DEss
 REPEAT : 100 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Keyboard : F1 : KeyPress
@@ -36,8 +36,9 @@ DELAY : 500
 REPEAT : 3 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Mouse : 0 : 0 : Click : 0 : 1 : 0
 DELAY : 3600
-DELAY : 500
+DELAY : 350
 ENDREPEAT
+DELAY : 1200
 DELAY : 1200
 ENDREPEAT
 ENDREPEAT

@@ -1,4 +1,4 @@
-REPEAT : 150 : 0 : 0 : Enter the number of iterations: : 0 : 0
+REPEAT : 1000 : 0 : 0 : Enter the number of iterations: : 0 : 0
 COMMENT : F2=Flour
 COMMENT : F4=Full Bucket, F5=3/4, F6=1/2, F7=1/4
 PLAY MACRO : C:\Macros\Baking\bake-well-water.mcr

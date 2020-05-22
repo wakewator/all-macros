@@ -21,15 +21,15 @@ REPEAT : 3 : 0 : 0 : Enter the number of iterations: : 0 : 0
 DELAY : 150
 Keyboard : F6 : KeyPress
 DELAY : 200
-REPEAT : 2 : 0 : 0 : Enter the number of iterations: : 0 : 0
+REPEAT : 3 : 0 : 0 : Enter the number of iterations: : 0 : 0
 DELAY : 200
 Keyboard : F12 : KeyPress
 DELAY : 350
 Keyboard : F5 : KeyPress
 DELAY : 350
-REPEAT : 5 : 0 : 0 : Enter the number of iterations: : 0 : 0
+REPEAT : 3 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Mouse : 0 : 0 : Click : 0 : 1 : 0
-DELAY : 1700
+DELAY : 1920
 ENDREPEAT
 ENDREPEAT
 ENDREPEAT

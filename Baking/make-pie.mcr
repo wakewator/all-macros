@@ -1,9 +1,9 @@
-DELAY : 1000
+DELAY : 400
 COMMENT : F2=Flour Bag
-COMMENT : F3=Egg, F4=Empt Bucket
+COMMENT : F3=Egg, F4=FULL Bucket
 COMMENT : F5=Sugar bag, F6=Fruit
 COMMENT : F12=Spoon
-REPEAT : 90 : 0 : 0 : Enter the number of iterations: : 0 : 0
+REPEAT : 1200 : 0 : 0 : Enter the number of iterations: : 0 : 0
 PLAY MACRO : C:\Macros\Baking\bake-well-water.mcr
 PLAY MACRO : C:\Macros\Baking\bake-add-F2.mcr
 PLAY MACRO : C:\Macros\Baking\bake-add-F3.mcr

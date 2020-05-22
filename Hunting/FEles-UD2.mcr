@@ -5,6 +5,7 @@ COMMENT : F1=regen, F2=WWT, F3=GFP, F4=Crate, F5=Warr totem
 COMMENT : F6=Dis resist, F7=BB, F11=Bag with WWT
 COMMENT : v2 - 4 movement stages instead of 3
 LABEL : START-LAB
+COMMENT : Start Loc: 100/3639, 93/...
 DELAY : 100
 LABEL : Kill Bar - top
 Keyboard : F2 : KeyPress
@@ -147,7 +148,7 @@ SET CLIPBOARD : 1 : 0 : Please enter the text to store in clipboard:
 ENDIF
 IF CLIPBOARD EQUALS : 8 : 0 : 0
 Keyboard : Down : KeyDown
-DELAY : 2000
+DELAY : 3000
 Keyboard : Down : KeyUp
 ENDIF
 IF CLIPBOARD EQUALS : 7 : 0 : 0
@@ -157,7 +158,7 @@ Keyboard : Down : KeyUp
 ENDIF
 IF CLIPBOARD EQUALS : 6 : 0 : 0
 Keyboard : Down : KeyDown
-DELAY : 2000
+DELAY : 3000
 Keyboard : Down : KeyUp
 ENDIF
 IF CLIPBOARD EQUALS : 5 : 0 : 0
